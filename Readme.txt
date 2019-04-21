@@ -19,3 +19,7 @@ GITHUB: https://github.com/jash-git/RWD-WEB-Template-Ex
     <script type="text/javascript" src="Assets/js/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="Assets/js/js_z.js"></script>
     <script type="text/javascript" src="Assets/plugins/FlexSlider/jquery.flexslider.js"></script><!-- Flexslider－－方便好用的圖片輪播、滑動切換套件-->
+
+WEB RWD 「Media Queries」 範例解釋說明 收集.txt用來幫助自己了解『responsive.css』的資料
+
+GOOGLE _Chrome_F12測試RWD心得筆記圖

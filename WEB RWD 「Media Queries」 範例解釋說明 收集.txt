@@ -1,0 +1,21 @@
+WEB RWD 「Media Queries」 範例解釋說明 收集
+
+資料來源:https://hsinyu00.wordpress.com/2011/04/05/mobile-web-media-queries/
+
+
+範例01- 400<寬度<700
+HTML
+	<link rel="stylesheet" media="screen and (min-width: 400px) and (max-width: 700px)" href="example.css" />
+CSS
+	@media screen and (min-width: 400px) and (max-width: 700px) {
+		.selector1{...}
+		.selector2{...}
+	}	
+	
+範例02- 單一條件[如果視窗最小寬度為500px，就套用這些CSS]
+CSS
+	@media screen and (min-width:500px) {.....}
+	
+
+	
+
